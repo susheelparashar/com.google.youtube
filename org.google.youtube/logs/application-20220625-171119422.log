@@ -1,0 +1,10 @@
+17:11:19.360 [main] DEBUG io.netty.util.internal.PlatformDependent - maxDirectMemory: 3107979264 bytes (maybe)
+17:11:19.365 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\SUSHEE~1.PAR\AppData\Local\Temp (java.io.tmpdir)
+17:11:19.365 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+17:11:19.366 [main] DEBUG io.netty.util.internal.PlatformDependent - Platform: Windows
+17:11:19.368 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+17:11:19.368 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+17:11:19.371 [main] DEBUG io.netty.util.internal.CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+17:11:19.371 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+17:11:19.386 [main] DEBUG io.netty.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+17:11:19.421 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024

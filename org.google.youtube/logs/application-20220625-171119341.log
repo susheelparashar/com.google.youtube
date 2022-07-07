@@ -1,0 +1,10 @@
+16:52:06.480 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x09e1964913728280
+16:52:21.208 [main] INFO  TC1 - started browser successfully
+16:52:21.208 [main] ERROR TC1 - started browser successfully
+17:11:19.269 [main] DEBUG io.netty.util.internal.logging.InternalLoggerFactory - Using Log4J2 as the default logging framework
+17:11:19.285 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+17:11:19.285 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+17:11:19.295 [main] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3fdecce
+17:11:19.334 [main] DEBUG io.netty.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+17:11:19.335 [main] DEBUG io.netty.util.internal.PlatformDependent0 - Java version: 17
+17:11:19.337 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available

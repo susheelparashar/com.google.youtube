@@ -1,0 +1,14 @@
+16:36:40.862 [main] DEBUG org.testing.utilities.log4j - this is debug
+16:36:40.875 [main] FATAL org.testing.utilities.log4j - this is fatal
+16:36:40.876 [main] INFO  org.testing.utilities.log4j - click successfully
+16:36:40.876 [main] ERROR org.testing.utilities.log4j - db connection failed
+16:36:40.876 [main] DEBUG org.testing.utilities.log4j - this is debug
+16:36:40.876 [main] FATAL org.testing.utilities.log4j - this is fatal
+16:37:22.371 [main] INFO  org.testing.utilities.log4j - click successfully
+16:37:22.377 [main] ERROR org.testing.utilities.log4j - db connection failed
+16:37:22.377 [main] DEBUG org.testing.utilities.log4j - this is debug
+16:37:22.378 [main] FATAL org.testing.utilities.log4j - this is fatal
+16:37:22.378 [main] INFO  org.testing.utilities.log4j - click successfully
+16:37:22.379 [main] ERROR org.testing.utilities.log4j - db connection failed
+16:37:22.379 [main] DEBUG org.testing.utilities.log4j - this is debug
+16:37:22.379 [main] FATAL org.testing.utilities.log4j - this is fatal

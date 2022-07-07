@@ -1,0 +1,11 @@
+16:37:22.379 [main] INFO  org.testing.utilities.log4j - click successfully
+16:37:22.392 [main] ERROR org.testing.utilities.log4j - db connection failed
+16:37:22.392 [main] DEBUG org.testing.utilities.log4j - this is debug
+16:37:22.392 [main] FATAL org.testing.utilities.log4j - this is fatal
+16:51:45.154 [main] DEBUG io.netty.util.internal.logging.InternalLoggerFactory - Using Log4J2 as the default logging framework
+16:51:45.189 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+16:51:45.189 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+16:51:45.200 [main] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@47af099e
+16:51:45.262 [main] DEBUG io.netty.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+16:51:45.262 [main] DEBUG io.netty.util.internal.PlatformDependent0 - Java version: 17
+16:51:45.265 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
