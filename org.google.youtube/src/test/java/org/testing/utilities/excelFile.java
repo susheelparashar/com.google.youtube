@@ -9,7 +9,6 @@ import org.apache.poi.ss.usermodel.DataFormatter;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
-import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class excelFile {
 	
@@ -40,7 +39,7 @@ public class excelFile {
 		 {
 			 String path = "C:\\Users\\susheel.parashar\\Desktop\\write.xlsx";
 			 FileInputStream fs = new FileInputStream(path);
-			 Workbook wb = new XSSFWorkbook(fs);
+			 Workbook wb = new XSSF Workbook(fs);
 			 Sheet sheet1 = wb.getSheetAt(0);
 			 int lastRow = sheet1.getLastRowNum();
 			 for(int i=0; i<=lastRow; i++){
